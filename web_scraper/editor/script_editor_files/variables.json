@@ -1,0 +1,1 @@
+[{"name":"data_date","type":"string"},{"name":"data_title","type":"string"},{"name":"<required>data_content<\/required>","type":"string"},{"name":"data_url","type":"array"},{"name":"data_tags","type":"array"}]
