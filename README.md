@@ -21,6 +21,8 @@ Although it says Scheduled and Automated, it is designed in a way that it can
 be used along side cron jobs and by inputting arguments it will run
 the appropriate version, day, week, month, year.
 
+TO ADD functionality: Mink access, fix scheduled arguement
+
 ETC
 ===
 This application works by run each script against the URL.
